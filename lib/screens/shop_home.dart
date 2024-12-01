@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_proba1/models/clothes_model.dart';
+import 'package:mis_lab_1/models/clothes_model.dart';
 
 // Move clothesList outside the class as a constant
 List<Clothes> clothesList = [

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_proba1/models/poke_model.dart';
-import 'package:flutter_proba1/widgets/pokemon_card_data.dart';
+import 'package:mis_lab_1/models/poke_model.dart';
+import 'package:mis_lab_1/widgets/pokemon_card_data.dart';
 
 class PokemonCard extends StatelessWidget {
   final int id;

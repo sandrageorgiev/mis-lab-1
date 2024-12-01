@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_proba1/screens/home.dart';
-import 'package:flutter_proba1/screens/shop_details.dart';
-import 'package:flutter_proba1/screens/shop_home.dart';
+import 'package:mis_lab_1/screens/home.dart';
+import 'package:mis_lab_1/screens/shop_details.dart';
+import 'package:mis_lab_1/screens/shop_home.dart';
 import 'screens/details.dart';
 
 void main() {
