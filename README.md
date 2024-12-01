@@ -1,11 +1,15 @@
 # mis_lab_1
 
 Flutter project - Clothing store
-![Simulator Screen Shot - iPhone 14 Pro Max - 2024-12-01 at 03 01 43](https://github.com/user-attachments/assets/10e8cbd2-0a38-4843-8a4c-26c0ffbb42f9)
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2024-12-01 at 03 01 51](https://github.com/user-attachments/assets/c757a4fd-fc25-4a7a-ba44-3f028d378668)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/10e8cbd2-0a38-4843-8a4c-26c0ffbb42f9" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c757a4fd-fc25-4a7a-ba44-3f028d378668" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/78077dba-50f8-4638-9228-914502e889fc" width="250"/></td>
+  </tr>
+</table>
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2024-12-01 at 03 02 05](https://github.com/user-attachments/assets/78077dba-50f8-4638-9228-914502e889fc)
 
 
 
